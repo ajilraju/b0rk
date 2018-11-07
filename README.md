@@ -30,3 +30,6 @@ Quick access to zines from Julia Evans
 [tweet](https://twitter.com/b0rk/status/1022699735482810368)
 
 
+## head & tail
+![](imgs/head&tail.jpg)
+[tweet](https://twitter.com/b0rk/status/1023048952332124160)
