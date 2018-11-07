@@ -10,6 +10,11 @@ Quick access to zines from Julia Evans
 [tweet](https://twitter.com/b0rk/status/1054056111626686465)
 
 
+## disk usage
+![](imgs/disk_usage.jpg)
+[tweet](https://twitter.com/b0rk/status/1000953701090103302)
+
+
 ## top
 ![](imgs/top.jpg)
 [tweet](https://twitter.com/b0rk/status/1022331694811099137)
