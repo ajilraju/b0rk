@@ -103,3 +103,7 @@ Quick access to zines from Julia Evans
 ## what's in a process
 ![](imgs/process.jpg)
 [tweet](https://twitter.com/b0rk/status/983705730036285441)
+
+## openssl
+![](imgs/openssl.jpg)
+[tweet](https://twitter.com/b0rk/status/1087524713939722240)
