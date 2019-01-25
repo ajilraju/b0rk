@@ -107,3 +107,12 @@ Quick access to zines from Julia Evans
 ## openssl
 ![](imgs/openssl.jpg)
 [tweet](https://twitter.com/b0rk/status/1087524713939722240)
+
+## ssh
+![](imgs/ssh.jpg)
+[tweet](https://twitter.com/b0rk/status/1087936439470444544)
+
+## ping & traceroute
+![](imgs/ping_traceroute.jpg )
+[tweet](https://twitter.com/b0rk/status/1088647566949056512)
+	
