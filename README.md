@@ -116,3 +116,6 @@ Quick access to zines from Julia Evans
 ![](imgs/ping_traceroute.jpg )
 [tweet](https://twitter.com/b0rk/status/1088647566949056512)
 	
+## curl
+![](imgs/curl.jpg )
+[tweet](https://twitter.com/b0rk/status/1088981000955355136)
