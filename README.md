@@ -104,18 +104,27 @@ Quick access to zines from Julia Evans
 ![](imgs/process.jpg)
 [tweet](https://twitter.com/b0rk/status/983705730036285441)
 
+
 ## openssl
 ![](imgs/openssl.jpg)
 [tweet](https://twitter.com/b0rk/status/1087524713939722240)
+
 
 ## ssh
 ![](imgs/ssh.jpg)
 [tweet](https://twitter.com/b0rk/status/1087936439470444544)
 
+
 ## ping & traceroute
 ![](imgs/ping_traceroute.jpg )
 [tweet](https://twitter.com/b0rk/status/1088647566949056512)
 	
+	
 ## curl
 ![](imgs/curl.jpg )
 [tweet](https://twitter.com/b0rk/status/1088981000955355136)
+
+
+## ss
+![](imgs/socket_stats.jpg )
+[tweet](https://twitter.com/b0rk/status/1090058524137345025)
