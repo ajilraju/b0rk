@@ -128,3 +128,8 @@ Quick access to zines from Julia Evans
 ## ss
 ![](imgs/socket_stats.jpg )
 [tweet](https://twitter.com/b0rk/status/1090058524137345025)
+
+
+## tc
+![](imgs/tc.jpg )
+[tweet](https://twitter.com/b0rk/status/1090458969234173953)
