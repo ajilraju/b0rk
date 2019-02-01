@@ -133,3 +133,18 @@ Quick access to zines from Julia Evans
 ## tc
 ![](imgs/tc.jpg )
 [tweet](https://twitter.com/b0rk/status/1090458969234173953)
+
+
+## netcat
+![](imgs/netcat.jpg )
+[tweet](https://twitter.com/b0rk/status/1059651145461723139)
+
+
+## conntrack
+![](imgs/conntrack.jpg )
+[tweet](https://twitter.com/b0rk/status/1059109780059504641)
+
+
+## socat
+![](imgs/socat.jpg )
+[tweet](https://twitter.com/b0rk/status/1059659488364556288)
