@@ -148,3 +148,13 @@ Quick access to zines from Julia Evans
 ## socat
 ![](imgs/socat.jpg )
 [tweet](https://twitter.com/b0rk/status/1059659488364556288)
+
+
+## tcpdump
+![](imgs/tcpdump.jpg )
+[tweet](https://twitter.com/b0rk/status/1091722736412606464)
+
+
+## tshark
+![](imgs/tshark.jpg )
+[tweet](https://twitter.com/b0rk/status/1091733136935923717)
