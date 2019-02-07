@@ -1,6 +1,10 @@
 # b0rk
 Quick access to zines from Julia Evans
 
+# BSD Not Equal GNU
+![](imgs/bsdgnu.jpeg)
+[tweet](https://twitter.com/b0rk/status/1023035232608571392)
+
 ## ip
 ![](imgs/ip.jpg)
 [tweet](https://twitter.com/b0rk/status/1053674763107876866)
